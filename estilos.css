@@ -24,3 +24,24 @@ h3{
 .header2{
     background-color: blue;
 }
+
+.imagendefondo{
+    background-image: url(img/Medellin.jpg);
+    height: 640px;
+    background-attachment: fixed;
+}
+
+.textorojo{
+    color: red;
+}
+
+table,td{
+    border:2px solid;
+    border-collapse: collapse;
+    
+}
+
+tr:hover{
+    background-color: gray;
+
+}
